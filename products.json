@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X Pro",
+    "price": 799.99,
+    "image": "https://example.com/images/smartphone_x_pro.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop Pro 15",
+    "price": 1299.99,
+    "image": "https://example.com/images/laptop_pro_15.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "price": 199.99,
+    "image": "https://example.com/images/wireless_headphones.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "image": "https://example.com/images/bluetooth_speaker.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch Ultra",
+    "price": 249.99,
+    "image": "https://example.com/images/smartwatch_ultra.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gaming Monitor 27\"",
+    "price": 499.99,
+    "image": "https://example.com/images/gaming_monitor_27.jpg"
+  },
+  {
+    "id": 7,
+    "name": "4K Ultra HD TV",
+    "price": 799.99,
+    "image": "https://example.com/images/4k_ultra_hd_tv.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "image": "https://example.com/images/wireless_mouse.jpg"
+  },
+  {
+    "id": 9,
+    "name": "External SSD 1TB",
+    "price": 129.99,
+    "image": "https://example.com/images/external_ssd_1tb.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Smart Light Bulb",
+    "price": 19.99,
+    "image": "https://example.com/images/smart_light_bulb.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Digital Camera Z-200",
+    "price": 599.99,
+    "image": "https://example.com/images/digital_camera_z200.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Electric Toothbrush",
+    "price": 89.99,
+    "image": "https://example.com/images/electric_toothbrush.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Portable Power Bank",
+    "price": 39.99,
+    "image": "https://example.com/images/portable_power_bank.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Smart Thermostat",
+    "price": 149.99,
+    "image": "https://example.com/images/smart_thermostat.jpg"
+  },
+  {
+    "id": 15,
+    "name": "VR Headset Pro",
+    "price": 399.99,
+    "image": "https://example.com/images/vr_headset_pro.jpg"
+  }
+]
